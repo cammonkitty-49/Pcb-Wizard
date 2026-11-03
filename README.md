@@ -217,4 +217,4 @@ PCB Wizard is offered as a full free version with all features and updates inclu
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-11-03 15:40:25 UTC
+**Last updated:** 2026-11-03 21:23:11 UTC
